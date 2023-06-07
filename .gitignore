@@ -37,3 +37,4 @@ Electron\ Markdown\ Editor-darwin-x64
 dist
 
 bower_components
+out/
